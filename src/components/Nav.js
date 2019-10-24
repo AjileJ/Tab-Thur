@@ -39,8 +39,8 @@ const Nav = () => {
  return (
    <div>
    <HeaderNav>
-   <NavLink to="/about">About</NavLink>
-   <NavLink to="/home">Home</NavLink>
+   <a href = 'https://nervous-almeida-00225d.netlify.com/#team'>About</a>
+   <a href = 'https://nervous-almeida-00225d.netlify.com'>Home</a>
    </HeaderNav>
    </div>
  )
